@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\bin\Debug\net6.0\C#BankomatApplication.exe
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\bin\Debug\net6.0\C#BankomatApplication.deps.json
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\bin\Debug\net6.0\C#BankomatApplication.runtimeconfig.json
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\bin\Debug\net6.0\C#BankomatApplication.dll
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\bin\Debug\net6.0\C#BankomatApplication.pdb
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\obj\Debug\net6.0\C#BankomatApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\obj\Debug\net6.0\C#BankomatApplication.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\obj\Debug\net6.0\C#BankomatApplication.AssemblyInfo.cs
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\obj\Debug\net6.0\C#BankomatApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\obj\Debug\net6.0\C#BankomatApplication.dll
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\obj\Debug\net6.0\refint\C#BankomatApplication.dll
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\obj\Debug\net6.0\C#BankomatApplication.pdb
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\obj\Debug\net6.0\C#BankomatApplication.genruntimeconfig.cache
+C:\Users\user\source\repos\C#BankomatApplication\C#BankomatApplication\obj\Debug\net6.0\ref\C#BankomatApplication.dll
